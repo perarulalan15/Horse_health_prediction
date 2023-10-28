@@ -23,7 +23,7 @@ The choice of algorithm can be selected by the user in the web application for p
 
 ## Data
 
-The machine learning models are trained on a dataset containing information about various health-related parameters and conditions of horses. The dataset is not included in this repository due to its size but can be obtained from kaggle.
+The machine learning models are trained on a dataset containing information about various health-related parameters and conditions of horses. The dataset is included in this repository but it can be obtained from kaggle.
 
 ## Getting Started
 
