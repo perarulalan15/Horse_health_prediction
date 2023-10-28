@@ -30,7 +30,7 @@ The machine learning models are trained on a dataset containing information abou
 To run the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/perarulalan15/Horse-health-prediction.git
+git clone [https://github.com/perarulalan15/Horse-health-prediction.git](https://github.com/perarulalan15/Horse_health_prediction.git)
 
 2. Install the required Python packages:
 pip install -r requirements.txt
