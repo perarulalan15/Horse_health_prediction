@@ -58,4 +58,4 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [v.perarulalan15@example.com].
+If you have any questions or suggestions, feel free to contact us at [v.perarulalan15@gmail.com].
