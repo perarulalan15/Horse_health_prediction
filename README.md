@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This project is aimed at predicting the health of horses using machine learning algorithms and deploying the model in a Streamlit web application. Horse health is crucial, and early detection of health issues can be life-saving. This application allows users to input various features related to the horse's condition and get predictions about its health status.
+This project aims to predict a horse's health using machine learning algorithms and deploying the model in a Streamlit web application. Horse health is crucial, and early detection of health issues can be life-saving. This application allows users to input various features related to the horse's condition and get predictions about its health status.
+
+https://horsehealthprediction.streamlit.app/
 
 ## Features
 
@@ -12,18 +14,18 @@ This project is aimed at predicting the health of horses using machine learning 
 
 ## Machine Learning Algorithms
 
-We have used a variety of machine learning algorithms to predict horse health. Some of the algorithms include:
+We have used a variety of machine-learning algorithms to predict horse health. Some of the algorithms include:
 
 - Logistic Regression
 - Random Forest
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 
-The choice of algorithm can be selected by the user in the web application for predictions.
+The algorithm can be selected by the user in the web application for predictions.
 
 ## Data
 
-The machine learning models are trained on a dataset containing information about various health-related parameters and conditions of horses. The dataset is included in this repository but it can be obtained from kaggle.
+The machine learning models are trained on a dataset containing information about various health-related parameters and conditions of horses. The dataset is included in this repository but it can be obtained from Kaggle.
 
 ## Getting Started
 
@@ -44,7 +46,7 @@ streamlit run app.py
 
 1. Open the web application by running `streamlit run app.py`.
 2. Input the relevant information about the horse's condition.
-3. Click the "Predict" button to get the health status prediction.
+3. Click the "Predict" button for the health status prediction.
 
 ## Contributions
 
