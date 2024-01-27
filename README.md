@@ -1,8 +1,8 @@
-# Horse Health Prediction using Machine Learning and Streamlit
+# Horse Health Prediction
 
 ## Introduction
 
-This project aims to predict a horse's health using machine learning algorithms and deploying the model in a Streamlit web application. Horse health is crucial, and early detection of health issues can be life-saving. This application allows users to input various features related to the horse's condition and get predictions about its health status.
+This project aims to predict a horse's health using machine learning algorithms and deploying the model in a Streamlit web application and also in Django Framework. Horse health is crucial, and early detection of health issues can be life-saving. This application allows users to input various features related to the horse's condition and get predictions about its health status.
 
 https://horsehealthprediction.streamlit.app/
 
@@ -10,6 +10,7 @@ https://horsehealthprediction.streamlit.app/
 
 - Machine Learning Models: We have trained several machine learning models using historical horse health data to make predictions about a horse's health status.
 - Streamlit Web App: The project is deployed as a Streamlit web application, making it easy for users to interact with the model and get predictions.
+- Django Web Application: The model is seamlessly integrated into a Django project, offering a scalable and efficient web application.
 - User-Friendly Interface: The web app provides a user-friendly interface for users to input relevant data and obtain health predictions.
 
 ## Machine Learning Algorithms
@@ -27,7 +28,28 @@ The algorithm can be selected by the user in the web application for predictions
 
 The machine learning models are trained on a dataset containing information about various health-related parameters and conditions of horses. The dataset is included in this repository but it can be obtained from Kaggle.
 
-## Getting Started
+## Django Framework
+
+Django is a high-level web framework for building web applications using the Python programming language. It follows the model-view-controller (MVC) architectural pattern, or more specifically, the model-view-template (MVT) pattern, which is a slight variation of MVC. Django provides a set of tools and conventions to help developers build web applications quickly and efficiently.
+
+## Getting Started For Django 
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Python 3.x
+- Pip (Python package installer)
+- Django
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/perarulalan15/Horse-health-prediction.git
+   cd Horse-health-prediction
+
+## Getting Started For Streamlit
 
 To run the project locally, follow these steps:
 
